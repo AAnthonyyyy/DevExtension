@@ -1,2 +1,2 @@
 # DevExtension
-Android开发过程中实用扩展方法（持续更新）
+Android开发实用扩展方法（持续更新）
